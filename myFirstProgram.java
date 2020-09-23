@@ -8,6 +8,6 @@ public class myFirstProgram {
 		String input = scanner.next(); 
 		scanner.close();
 		
-		System.out.println(" " + input); 
+		System.out.println("My favorite programming language is " + input); 
 	} 
 }
